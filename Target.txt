@@ -1,5 +1,2 @@
-websocket-client
-json_minify
-flask
-pytz
-requests[socks]
+http://aminoapps.com/p/2p3wg6
+http://aminoapps.com/p/idqsdf
