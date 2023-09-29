@@ -186,8 +186,7 @@ async def main():
     
     email="aditi129@proton.me" # enter email here
     password="AdiShakti123" # enter password here
-    device="19BAB42A8DDF8E50FF085D32C10B15D0B8F5F17EA021584C0ADA22127942C389C61EBEB33B31D254D1" # enter secret here
-    gclink="http://aminoapps.com/p/tc40pk"  # enter gc link where you are set as host
+    device="194EECD61CF975B2A609BAD3A403A69FA9C175604212B0A0841A80A184A30825DF04A65399D84A56A4"  # enter gc link where you are set as host
     logdata = {"email": email, "password": password, "device": device}
     async with aiohttp.ClientSession() as session:
         client = Account(logdata, session)
